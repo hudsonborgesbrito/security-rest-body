@@ -5,7 +5,6 @@ import com.hbb.springrest.dto.PersonRequestDTO;
 import com.hbb.springrest.dto.PersonResponseDTO;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.http.HttpEntity;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
